@@ -1,0 +1,1 @@
+XCOPY D:\code\nrf52840\build\nrf52840\zephyr\zephyr.elf H:\
